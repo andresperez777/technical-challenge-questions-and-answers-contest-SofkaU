@@ -1,7 +1,8 @@
 # technical-challenge-questions-and-answers-contest-SofkaU
 technical challenge, questions and answers contest SofkaU 
 
-Java Project - SofkaU
+Java Project - SofkaU 
+Andrés Pérez 
 
 El archivo scriptChallenge sirve para la creacion de las tablas que se usaran en la base de datos, y las especificaciones del usuario de la misma
 
